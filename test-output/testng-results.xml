@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T11:07:08 IST" name="Default suite" finished-at="2023-12-26T11:07:14 IST" duration-ms="6030">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T11:07:08 IST" name="Default test" finished-at="2023-12-26T11:07:14 IST" duration-ms="6030">
+      <class name="API_chaining.POST_and_GET_user_api_chaning">
+        <test-method signature="create_user()[pri:1, instance:API_chaining.POST_and_GET_user_api_chaning@6b3871d6]" started-at="2023-12-26T11:07:08 IST" name="create_user" finished-at="2023-12-26T11:07:14 IST" duration-ms="5865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_user -->
+      </class> <!-- API_chaining.POST_and_GET_user_api_chaning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
